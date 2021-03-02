@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BFFinder</string>
+    <string name="hi_my_name_is">Hi, my name is …</string>
+    <string name="become_bff">Become BFF!</string>
+    <string name="already_your_bff">Already your BFF!</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="congratulations_message">You have started an amazing friendship with %s!</string>
+    <string name="great">Great!</string>
+    <plurals name="x_months">
+        <item quantity="one">%d month</item>
+        <item quantity="other">%d months</item>
+    </plurals>
+    <plurals name="x_years">
+        <item quantity="one">%d year</item>
+        <item quantity="other">%d years</item>
+    </plurals>
+</resources>
