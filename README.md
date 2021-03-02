@@ -1,6 +1,6 @@
 # BFFinder
 
-A showcase app for adopting puppets, created as response to the #AndroidDevChallenged launched by Google and written entirely with Jetpack Compose.
+A showcase app for adopting puppies, created as response to the #AndroidDevChallenged launched by Google and written entirely with Jetpack Compose.
 
 ## Screenshots
 
