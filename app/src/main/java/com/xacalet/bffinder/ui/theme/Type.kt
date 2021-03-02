@@ -32,9 +32,10 @@ val Typography = Typography(
         fontWeight = FontWeight.Normal,
     ),
     body1 = TextStyle(
-        fontFamily = FontFamily.Default,
+        fontFamily = NexaFontFamily,
         fontWeight = FontWeight.Normal,
-        fontSize = 16.sp
+        fontStyle = FontStyle.Normal,
+        fontSize = 13.sp
     ),
     caption = TextStyle(
         fontFamily = NexaFontFamily,
